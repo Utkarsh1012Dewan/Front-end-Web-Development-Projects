@@ -1,3 +1,3 @@
 # Frontend-Mentor-QR-code-component-solution-
 
-Here I will share all the front-end web-development projects that I create in my journey to become a web-developer
+This is a solution to the QR code component challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
