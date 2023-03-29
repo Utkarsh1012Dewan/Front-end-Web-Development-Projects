@@ -1,0 +1,30 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+.section {
+  width: 60%;
+  text-align: center;
+  background-color: hsl(0, 0%, 100%);
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 350px;
+  border-radius: 15px;
+  padding: 20px;
+  margin-top: auto;
+}
+.image {
+  border-radius: 15px;
+}
+
+.main-text {
+  font-family: Outfit;
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+}
+
+.second-text {
+  font-family: Outfit;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+}
